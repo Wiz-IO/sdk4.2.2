@@ -1,0 +1,4 @@
+<command-line>:0:0: warning: "PRODUCT_VERSION" redefined [enabled by default]
+<command-line>:0:0: note: this is the location of the previous definition
+<command-line>:0:0: warning: "PRODUCT_VERSION" redefined [enabled by default]
+<command-line>:0:0: note: this is the location of the previous definition
